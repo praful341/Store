@@ -1,0 +1,10 @@
+[LOGIN]
+ ServerHostName=DESKTOP-T5J69DS
+DBName=SKM_TEXT
+ServerUserName=sa
+ServerPassWord=admin@123 
+
+/*ServerHostName=sql5026.site4now.net */
+/*DBName=DB_A64AA2_billing*/
+/*ServerUserName=DB_A64AA2_billing_admin*/
+/*ServerPassWord=billing@123*/
